@@ -1,4 +1,4 @@
-name = "flareact-template"
+name = "fully-flareacted"
 type = "webpack"
 account_id = "123"
 workers_dev = true
